@@ -1,0 +1,28 @@
+.bool{
+    background-color: #fff;
+	border: 1px solid #dbdbdb;
+	border-radius: 3px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin: 100px auto;
+	padding: 20px;
+	text-align: center;
+	width: 400px;
+}
+   
+   .bol{
+  width: 100vw;
+  height: 100vh;
+	background-image: url(./financas.png) ;
+					background-size: 100%;
+					background-repeat: no-repeat;
+
+   }
+   .help{
+	color: crimson;
+
+ 
+   }
+   .gol{
+	color: white;
+    padding: 3px;
+   }
